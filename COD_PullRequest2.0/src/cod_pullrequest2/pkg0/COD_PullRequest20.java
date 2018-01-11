@@ -6,7 +6,7 @@ public class COD_PullRequest20 {
 
 
     public static void main(String[] args) {
-        //2.0
+        //1.1
     }
     
 }
